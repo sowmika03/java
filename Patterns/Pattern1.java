@@ -6,9 +6,17 @@ class Pattern1
 	{
 	for(int j=0;j<6;j++)
 	{
-	    System.out.print("*");
+	    System.out.print("* ");
 	}
 	System.out.println();
 	}
     }
 }
+/*
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+* * * * * *
+*/
